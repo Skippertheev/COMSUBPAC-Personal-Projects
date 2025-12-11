@@ -19,7 +19,7 @@ These repository may serve as
 - archive
 - soft and hardware integration
 
-🛰️ Contact HQ
-Skippertheev (Evan Zhang)
-📡 LinkedIn: https://linkedin.com/in/evan-zhang-47432b25a
-📧 Email: ezhang.2017@outlook.com
+🛰️ Contact HQ 
+Skippertheev (Evan Zhang) <br>
+📡 LinkedIn: https://linkedin.com/in/evan-zhang-47432b25a <br>
+📧 Email: ezhang.2017@outlook.com <br>
