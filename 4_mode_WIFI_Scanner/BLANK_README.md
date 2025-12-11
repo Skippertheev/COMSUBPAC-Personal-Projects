@@ -21,13 +21,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Skippertheev/COMSUBPAC-Personal-Projects">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/comsubpac-logo.png" alt="COMSUBPAC Logo" width="120">
   </a>
 
-<h3 align="center">4 mode WIFI scanner</h3>
+<h3 align="center">4-Mode Wi-Fi Scanner</h3>
 
-  <p align="center">
-    project_description
+<p align="center">
+    A portable ESP8266 Wi-Fi scanning tool with OLED display.
     <br />
     <a href="https://github.com/Skippertheev/COMSUBPAC-Personal-Projects"><strong>Explore the docs »</strong></a>
     <br />
@@ -87,14 +87,11 @@ It surveys nearby Wi-Fi networks across four modes:
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+[![ESP8266][ESP8266-badge]][ESP8266-url]
+[![ArduinoIDE][ArduinoIDE-badge]][ArduinoIDE-url]
+[![AdafruitGFX][AdafruitGFX-badge]][AdafruitGFX-url]
+[![AdafruitSSD1306][AdafruitSSD1306-badge]][AdafruitSSD1306-url]
+[![ESP8266WiFi][ESP8266WiFi-badge]][ESP8266WiFi-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +135,6 @@ It surveys nearby Wi-Fi networks across four modes:
 
 <!-- USAGE EXAMPLES -->
 
-```md
 ## Usage
 
 ### Controls
@@ -201,7 +197,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Evan Zhang
-
 Linkedin: [@linkedin handle](linkedin.com/in/evan-zhang-47432b25a)
 Email: ezhang.2017@outlook.com
 Project Link: [https://github.com/Skippertheev/COMSUBPAC-Personal-Projects](https://github.com/Skippertheev/COMSUBPAC-Personal-Projects)
@@ -254,3 +249,16 @@ TODO
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+
+[ESP8266-badge]: https://img.shields.io/badge/ESP8266-microcontroller-blue?style=for-the-badge&logo=espressif&logoColor=white
+[ESP8266-url]: https://www.espressif.com/
+[ArduinoIDE-badge]: https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
+[ArduinoIDE-url]: https://www.arduino.cc/en/software
+[AdafruitGFX-badge]: https://img.shields.io/badge/Adafruit-GFX%20Library-orange?style=for-the-badge&logo=adafruit&logoColor=white
+[AdafruitGFX-url]: https://github.com/adafruit/Adafruit-GFX-Library
+[AdafruitSSD1306-badge]: https://img.shields.io/badge/Adafruit-SSD1306-blueviolet?style=for-the-badge&logo=adafruit&logoColor=white
+[AdafruitSSD1306-url]: https://github.com/adafruit/Adafruit_SSD1306
+[ESP8266WiFi-badge]: https://img.shields.io/badge/ESP8266WiFi-WiFi%20Library-lightgrey?style=for-the-badge&logo=wifi&logoColor=white
+[ESP8266WiFi-url]: https://arduino-esp8266.readthedocs.io/
+
