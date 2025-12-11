@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Evan Zhang <br>
-Linkedin: [@linkedin handle](linkedin.com/in/evan-zhang-47432b25a) <br>
+Linkedin: [@www.linkedin.com/in/evan-zhang-47432b25a](linkedin.com/in/evan-zhang-47432b25a) <br>
 Email: ezhang.2017@outlook.com <br>
 Project Link: [https://github.com/Skippertheev/COMSUBPAC-Personal-Projects](https://github.com/Skippertheev/COMSUBPAC-Personal-Projects) <br>
 
