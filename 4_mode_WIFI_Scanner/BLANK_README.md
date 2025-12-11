@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Skippertheev/COMSUBPAC-Personal-Projects">
-    <img src="images/comsubpac-logo.png" alt="COMSUBPAC Logo" width="120">
+    <img src="images/comsubpac-seal-hires.png" alt="COMSUBPAC Logo" width="120">
   </a>
 
 <h3 align="center">4-Mode Wi-Fi Scanner</h3>
