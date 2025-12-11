@@ -1,6 +1,6 @@
 Descripton of the general project repo:
 
-// General Logo
+# General Logo
 <br />
 <div align="center">
   <a href="https://github.com/Skippertheev/COMSUBPAC-Personal-Projects">
