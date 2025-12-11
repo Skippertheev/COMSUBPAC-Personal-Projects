@@ -196,10 +196,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Evan Zhang
-Linkedin: [@linkedin handle](linkedin.com/in/evan-zhang-47432b25a)
-Email: ezhang.2017@outlook.com
-Project Link: [https://github.com/Skippertheev/COMSUBPAC-Personal-Projects](https://github.com/Skippertheev/COMSUBPAC-Personal-Projects)
+Evan Zhang <br>
+Linkedin: [@linkedin handle](linkedin.com/in/evan-zhang-47432b25a) <br>
+Email: ezhang.2017@outlook.com <br>
+Project Link: [https://github.com/Skippertheev/COMSUBPAC-Personal-Projects](https://github.com/Skippertheev/COMSUBPAC-Personal-Projects) <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
