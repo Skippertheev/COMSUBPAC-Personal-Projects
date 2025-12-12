@@ -24,10 +24,10 @@
     <img src="images/comsubpac-seal-hires.png" alt="COMSUBPAC Logo" width="120">
   </a>
 
-<h3 align="center">4-Mode Wi-Fi Scanner</h3>
+<h3 align="center">Satellite(ISS) Tracker</h3>
 
 <p align="center">
-    A portable ESP8266 Wi-Fi scanning tool with OLED display.
+    A portable ESP32 display tracking the live orbital positions of satellites.
     <br />
     <a href="https://github.com/Skippertheev/COMSUBPAC-Personal-Projects"><strong>Explore the docs »</strong></a>
     <br />
